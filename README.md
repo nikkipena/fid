@@ -1,2 +1,2 @@
 # fid
-The Repository for DIG2500 Fundamentals of Interactive Design 
+This the repository for DIG2500 Fundamentals of Interactive Design 

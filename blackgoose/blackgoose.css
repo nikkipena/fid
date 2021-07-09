@@ -15,14 +15,14 @@ h1{
   margin-top: 30px;
   letter-spacing: .25em;
 }
+
 h2{
   color: #d1633c;
   font-size: 1.5em;
   font-family: "Abel", sans-serif;
   text-align: left;
   text-transform: uppercase;
-  letter-spacing: .125em;
-  text-decoration: underline;
+  letter-spacing: .25em;
 }
 a {
   text-decoration: none;
@@ -33,32 +33,38 @@ a:focus {color: #6495ED; background-color: #fff;}
 a:hover {color: #6495ED; background-color: #fff;}
 a:active {color: #008B8B; background-color: #fff;}
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 dt {
   font-weight: bold;
 }
+
 strong {
   font-style: italic;
 }
+
 dt strong {color: tomato;}
-ul {
-	list-style-type: circle;
-	margin: 0;
-	padding: 0;
-}
+
+ul {text-align: left;
+	list-style-type: none;}
+
 #info p {
   font-style: italic;
-  color: #483D8B;
+  color: #000000;
   text-align: center;
 }
 
 nav {text-align: center;
-font-size: 1.5em;}
+font-size: 1.5em; letter-spacing: .125em;}
 
 .price {
   font-family: Georgia, serif;
   font-style: italic;
 }
-p.warning, sup {
+.warning, sup {
   font-size: small;
   color: red;
   font-style: italic;
@@ -69,10 +75,7 @@ p.warning, sup {
   font-style: normal;
 }
 
-h2 + p {
-  text-align: center;
-  font-style: italic;
-}
+.menu {text-align: center;}
 
 img {
 	max-width: 100%;

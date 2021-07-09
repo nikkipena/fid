@@ -51,7 +51,7 @@ dt strong {color: tomato;}
 ul {text-align: left;
 	list-style-type: none;}
 
-#info p {
+#info {
   font-style: italic;
   color: #000000;
   text-align: center;

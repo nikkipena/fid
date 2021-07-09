@@ -5,11 +5,13 @@ body{
   text-align: left;
   font-size: 1em;
 }
+
 h1{
   text-align: center;
   font-family: "Abel", sans-serif;
   font-weight: bold;
   font-size: 2.5;
+  text-shadow: .1em .1em .2em gray;
   text-transform: uppercase;
   border-bottom: 1px solid #57b1dc;
   margin-top: 30px;
@@ -51,7 +53,7 @@ dt strong {color: tomato;}
 ul {text-align: left;
 	list-style-type: none;}
 
-#info {
+#info{
   font-style: italic;
   color: #000000;
   text-align: center;

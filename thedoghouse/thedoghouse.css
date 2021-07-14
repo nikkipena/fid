@@ -64,7 +64,7 @@ table {margin-right: auto; margin-left: auto; width: 30%;}
 ul {text-align: left;
 	list-style-type: circle;}
 
-#info{
+.info{
   font-size: 1em;
   font-style: italic;
   text-align: center;}

@@ -59,7 +59,7 @@ td {font-size: 1em; text-align: center;
 th {font-family: "Kanit", sans-serif; font-weight: bold; font-size: 1.25em; text-align: center;
   border: 3px solid #000000;
 padding: 5px; text-transform: uppercase; background-color: #8dbcb7;}
-table {margin-right: auto; margin-left: auto; solid #FFF; width: 30%;}
+table {margin-right: auto; margin-left: auto; width: 30%;}
 
 ul {text-align: left;
 	list-style-type: circle;}

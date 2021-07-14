@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>The Dog House Contact</title>
+
+<link rel="stylesheet" href="thedoghouse.css">
+<link href="https://fonts.googleapis.com/css2?family=Kanit:wght@700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Josefin+Slab:wght@300&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header>
+  <p><img src="gallery/doghouse.png" alt="the dog house logo" class="center" height="200" width="200"></p>
+    <h1>Doggy Daycare</h1>
+
+    <div id="info">
+    <p>22 Puppers Point <br> Burlington, Vermont<br>
+    <span class="label">Monday through Friday:</span> 8am to 8pm <br>
+    <span class="label">Friday and Saturday;</span> 11am to 3pm </p>
+    </div>
+
+
+    <nav><strong><a href="index.html">Home</a></strong>
+      -
+      <strong><a href="services.html">Services</a></strong>
+      -
+      <strong><a href="safety.html">Safety</a></strong>
+      -
+      <strong><a href="contact.html">Contact</a></strong>
+      -
+      <strong><a href="gallery.html">Gallery</a></strong>
+    </nav>
+
+    </header>
+
+    <fieldset>
+    <legend>Your Information</legend>
+    <ul>
+      <li><label for="form-name">Name:</label> <input type="text" name="customername" id="form-name"></li>
+      <li><label for="form-name">Dog Name(s):</label> <input type="text" name="customername" id="form-name"></li>
+      <li><label for="form-tel">Telephone Number:</label> <input type="tel" name="telephone" id="form-tel"></li>
+      <li><label for="form-email">Email:</label> <input type="email" name="email" id="form-email"></li>
+      <li>What is your desired day and time for tour? <em>(subject to avaiability)</em><br>
+      <textarea name="availability" rows="4" cols="60" maxlength="400" placeholder="no more than 400 characters long" id="form-story"></textarea></li>
+    </ul>
+    </fieldset>
+
+    <fieldset>
+    <legend>I am interested in... <em>(select all that are applicable)</em>:</legend>
+    <ul>
+      <li><label><input type="checkbox" name="schedule[]" value="full day">Full Day</label></li>
+      <li><label><input type="checkbox" name="schedule[]" value="half day">Half Day</label></li>
+      <li><label><input type="checkbox" name="schedule[]" value="monthly pay">Monthly Billing</label></li>
+      <li><label><input type="checkbox" name="schedule[]" value="pay as you go">Pay Daily</label></li>
+      <li><label><input type="checkbox" name="schedule[]" value="changes weekly">Schedule Changes</label></li>
+      <li><label><input type="checkbox" name="schedule[]" value="set schedule">Set Schedule</label></li>
+    </ul>
+    </fieldset>
+
+
+    <p><input type="submit" value="Schedule Tour!"></p>
+    </form>
+
+
+    <footer>
+      <p>Please visit our social media pages</p>
+      <p><img src="icons/facebook.svg" alt="facebook">
+      <img src="icons/instagram.svg" alt="instagram"></p>
+
+      <p><small>All content copyright &copy; 2021 <br>The Dog House Doggy Daycare</small></p>
+    </footer>
+
+    </body>
+    </html>

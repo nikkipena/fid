@@ -13,7 +13,7 @@ header {
   padding: 1em 1em 1em 1em;
   text-align: center;
 }
-h1{color: #000000;
+h1{
   text-align: center;
   font-family: "Kanit", sans-serif;
   font-weight: bold;
@@ -24,7 +24,6 @@ h1{color: #000000;
 }
 
 h2{
-  color: #000000;
   font-size: 2em;
   font-family: "Kanit", sans-serif;
   text-align: center;
@@ -35,7 +34,6 @@ h2{
 }
 
 h3{
-  color: #000000;
   font-size: 1.5em;
   font-family: "Kanit", sans-serif;
   text-align: left;
@@ -54,11 +52,11 @@ nav {text-align: center;
 font-size: 2em; word-spacing: 1.5em; background-color: #ffffff; border-radius: 5px;
 text-transform: uppercase; font-family: "Kanit", sans-serif; font-weight: bold;}
 
-caption {font-family: "Kanit", sans-serif; font-size: 1.5em; color: #000000;
+caption {font-family: "Kanit", sans-serif; font-size: 1.5em;
 text-transform: uppercase; text-decoration: underline; font-weight: bold;}
-td {color: #000000; font-size: 1em; text-align: center;
+td {font-size: 1em; text-align: center;
   border: 3px solid #000000; padding: 10px; text-transform: uppercase; font-weight: bold;}
-th {font-family: "Kanit", sans-serif; font-weight: bold; color: #000000; font-size: 1.25em; text-align: center;
+th {font-family: "Kanit", sans-serif; font-weight: bold; font-size: 1.25em; text-align: center;
   border: 3px solid #000000;
 padding: 5px; text-transform: uppercase; background-color: #8dbcb7;}
 table {margin-right: auto; margin-left: auto; solid #FFF; width: 30%;}
@@ -69,13 +67,13 @@ ul {text-align: left;
 #info{
   font-size: 1em;
   font-style: italic;
-  color: #000000;
   text-align: center;}
 
 .label {
   font-weight: bold;
   font-variant: small-caps;
   font-style: normal;}
+
 
 footer {border-top: 5px solid #8dbcb7;
 font-family: "Josefin Slab", arial, sans-serif;

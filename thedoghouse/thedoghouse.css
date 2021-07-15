@@ -46,7 +46,7 @@ a:hover {color: #6495ED; background-color: #fff;}
 a:active {color: #483D8B; background-color: #90EE90;}
 
 nav {text-align: center;
-font-size: 2em; word-spacing: 1.5em;
+font-size: 2em; word-spacing: 1.25em;
 text-transform: uppercase; font-family: "Kanit", sans-serif; font-weight: bold;}
 
 caption {font-family: "Kanit", sans-serif; font-size: 1.5em;

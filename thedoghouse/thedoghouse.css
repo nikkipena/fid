@@ -4,15 +4,15 @@ body{
     font-family: "Josefin Slab", arial, sans-serif;
   text-align: center;
   font-size: 1em;
-  font-weight: bold;
-}
+  font-weight: bold;}
+  
 header {
   background-color: #8dbcb7;
     font-family: "Kanit", arial, sans-serif;
   margin-top: 0;
   padding: 1em 1em 1em 1em;
-  text-align: center;
-}
+  text-align: center;}
+
 h1{
   text-align: center;
   font-family: "Kanit", sans-serif;
@@ -20,8 +20,7 @@ h1{
   font-size: 2.5em;
   text-transform: uppercase;
   margin-top: 2px;
-  letter-spacing: .25em;
-}
+  letter-spacing: .25em;}
 
 h2{
   font-size: 2em;
@@ -30,18 +29,15 @@ h2{
   font-weight: bold;
   text-transform: uppercase;
   letter-spacing: .25em;
-  text-decoration: underline;
-}
+  text-decoration: underline;}
 
 h3{
   font-size: 1.5em;
   font-family: "Kanit", sans-serif;
   text-align: left;
-  text-decoration: underline;
-}
-a {
-  text-decoration: none;
-}
+  text-decoration: underline;}
+
+a {text-decoration: none;}
 a:link {color: #000000; font-weight: bold;}
 a:visited {color: #191970;}
 a:focus {color: #6495ED; background-color: #fff;}
@@ -54,11 +50,13 @@ text-transform: uppercase; font-family: "Kanit", sans-serif; font-weight: bold;}
 
 caption {font-family: "Kanit", sans-serif; font-size: 1.5em;
 text-transform: uppercase; text-decoration: underline; font-weight: bold;}
+
 td {font-size: 1em; text-align: center;
   border: 3px solid #000000; padding: 10px; text-transform: uppercase; font-weight: bold;}
+
 th {font-family: "Kanit", sans-serif; font-weight: bold; font-size: 1.25em; text-align: center;
-  border: 3px solid #000000;
-padding: 5px; text-transform: uppercase; background-color: #8dbcb7;}
+  border: 3px solid #000000; padding: 5px; text-transform: uppercase; background-color: #8dbcb7;}
+
 table {margin-right: auto; margin-left: auto; width: 30%;}
 
 ul {text-align: left;
@@ -78,6 +76,6 @@ ul {text-align: left;
 footer {border-top: 5px solid #8dbcb7;
 font-family: "Josefin Slab", arial, sans-serif;
   text-align: center;
-  text-transform: uppercase;
-}
+  text-transform: uppercase;}
+
 footer img {width: 40px; height: 40px; margin-left: .5em; margin-right: .5em;}

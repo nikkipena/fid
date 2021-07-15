@@ -38,6 +38,12 @@ h3{
   text-align: left;
   text-decoration: underline;}
 
+h4{
+  font-size: 1.25em;
+  font-family: "Kanit", sans-serif;
+  text-align: center;
+  text-decoration: underline;}
+
 a {text-decoration: none;}
 a:link {color: #000000; font-weight: bold;}
 a:visited {color: #191970;}
@@ -46,7 +52,7 @@ a:hover {color: #6495ED; background-color: #fff;}
 a:active {color: #483D8B; background-color: #90EE90;}
 
 nav {text-align: center;
-font-size: 2em; word-spacing: 1.15em;
+font-size: 2em; word-spacing: 1.5em;
 text-transform: uppercase; font-family: "Kanit", sans-serif; font-weight: bold;}
 
 caption {font-family: "Kanit", sans-serif; font-size: 1.5em;

@@ -1,14 +1,14 @@
 body{
   background: #ffffff;
   margin: 0 5%;
-    font-family: "Josefin Slab", arial, sans-serif;
+    font-family: "Josefin Slab", sans-serif;
   text-align: center;
   font-size: 1em;
   font-weight: bold;}
 
 header {
   background-color: #8dbcb7;
-    font-family: "Kanit", arial, sans-serif;
+    font-family: "Kanit", sans-serif;
   margin-top: 0;
   padding: 1em 1em 1em 1em;
   text-align: center;}

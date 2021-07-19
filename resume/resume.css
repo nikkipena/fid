@@ -49,17 +49,11 @@ ul {text-align: left;
   font-family: "Gruppo", arial, sans-serif;
   font-weight: bold; font-size: 1.25em;}
 
-.worksamples
-{background-color: #000000;
-  padding: 2em;
-  margin-left: 13em;
-  margin-right: 13em;}
-
 .center {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;}
+    width: 75%;}
 
 #subhead {font-family: "Gruppo", arial, sans-serif;
 text-transform: lowercase;

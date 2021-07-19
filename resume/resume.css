@@ -7,7 +7,7 @@ header {
     background-color: #000000;
     font-family: "Truculenta", arial, sans-serif;
     margin-top: 0;
-    border: 2px solid black;
+    border: 2px solid;
     outline: #FFA07A solid 15px;
     padding: 40px;
     text-align: center;
@@ -38,8 +38,8 @@ border-style: solid;
 border-color: #FFA07A;
 border-width: .5em;
 padding: 1em;
-margin-right: 600px;
-margin-left: 600px;}
+margin-right: 300px;
+margin-left: 300px;}
 
 p {font-family: "Gruppo", arial, sans-serif;
 font-weight: bold; font-size: 1.25em;}
@@ -52,8 +52,8 @@ ul {text-align: left;
 .worksamples
 {background-color: #000000;
   padding: 2em;
-  margin-left: 14.5em;
-  margin-right: 14.5em;}
+  margin-left: 13em;
+  margin-right: 13em;}
 
 .center {
     display: block;

@@ -6,6 +6,7 @@ body {background-color: #FFEFD5;
 header {
     background-color: #000000;
     font-family: "Truculenta", arial, sans-serif;
+    text-align: center;
     margin-top: 0;
     border: 2px solid;
     outline: #FFA07A solid 15px;

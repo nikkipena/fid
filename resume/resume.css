@@ -25,6 +25,7 @@ h1 {text-align: center;
 
 h2{text-align: left;
   font-family: "Gruppo", serif;
+font-weight: bold;
   color: #000000;
   font-size: 1.5em; text-transform: uppercase;}
 
@@ -41,13 +42,13 @@ padding: 1em;
 margin-right: 100px;
 margin-left: 100px;}
 
-p {font-family: "Gruppo", arial, sans-serif;
-font-weight: bold; font-size: 1.25em;}
+p {font-family: "Open Sans Condensed", arial, sans-serif;
+font-size: 1.25em;}
 
 ul {text-align: left;
 	list-style-type: circle;
-  font-family: "Gruppo", arial, sans-serif;
-  font-weight: bold; font-size: 1.25em;}
+  font-family: "Open Sans Condensed", arial, sans-serif;
+font-size: 1.25em;}
 
 .center {
     display: block;

@@ -10,8 +10,7 @@ header {
     border: 2px solid;
     outline: #FFA07A solid 15px;
     padding: 40px;
-    text-align: center;
-    padding: 1em 1em 1em 1em;}
+    text-align: center;}
 
 h1 {text-align: center;
   font-family: "Truculenta", arial, sans-serif;
@@ -64,10 +63,9 @@ font-size: 1.25em;}
         border: 2px solid;
         outline: #FFA07A solid 15px;
         padding: 40px;
-        text-align: center;
-        padding: 1em 1em 1em 1em;}
+        text-align: center;}
 
-#subhead {font-family: "Gruppo", arial, sans-serif;
+.subhead {font-family: "Gruppo", arial, sans-serif;
 text-transform: lowercase;
 color: #FFEFD5;
 font-size: 1.5em;

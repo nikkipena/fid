@@ -55,6 +55,17 @@ ul {text-align: left;
     margin-right: auto;
     width: 75%;}
 
+.sample{
+      background-color: #000000;
+        font-family: "Truculenta", arial, sans-serif;
+        font-size: .5em;
+        margin-top: 0;
+        border: 2px solid;
+        outline: #FFA07A solid 15px;
+        padding: 40px;
+        text-align: center;
+        padding: 1em 1em 1em 1em;}
+
 #subhead {font-family: "Gruppo", arial, sans-serif;
 text-transform: lowercase;
 color: #FFEFD5;

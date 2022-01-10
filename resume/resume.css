@@ -1,15 +1,13 @@
-body {background-color: #FFEFD5;
+body {background-color: #8a9a5b;
   margin: 0 10%;
   font-family: serif;
   text-align: left;}
 
-header {
-    background-color: #000000;
-    font-family: "Truculenta", arial, sans-serif;
+header {font-family: "Truculenta", arial, sans-serif;
+  color: #000000;
+  background-color: #d1e189;
     text-align: center;
     margin-top: 0;
-    border: 2px solid;
-    outline: #FFA07A solid 15px;
     padding: 40px;
     text-align: center;}
 
@@ -17,7 +15,7 @@ h1 {text-align: center;
   font-family: "Truculenta", arial, sans-serif;
   font-weight: normal;
   font-size: 8em;
-  color: #FFEFD5;
+  color: #000000;
   text-transform: uppercase;
   margin-top: 1px;
   margin-bottom: 1px;
@@ -35,9 +33,6 @@ font-weight: bold;
 font-size: 1.5em;
 text-align: center;
 background-color: #000000;
-border-style: solid;
-border-color: #FFA07A;
-border-width: .5em;
 padding: 1em;
 margin-right: 100px;
 margin-left: 100px;}
@@ -51,31 +46,32 @@ ul {text-align: left;
 font-size: 1.25em;}
 
 .center {
-display: block;
+    display: block;
     margin-left: auto;
     margin-right: auto;
     width: 75%;}
 
 .sample{
-      background-color: #000000;
         font-family: "Truculenta", arial, sans-serif;
         font-size: .5em;
         margin-top: 0;
-        border: 2px solid;
-        outline: #FFA07A solid 15px;
         padding: 40px;
         text-align: center;}
 
 .subhead {font-family: "Gruppo", arial, sans-serif;
 text-transform: lowercase;
-color: #FFEFD5;
-font-size: 1.5em;
+margin-top: 0;
+margin-left: 0;
+margin-right: 0;
+color: #8a9a5b;
+font-size: 2em;
+font-weight: bolder;
 text-align: center;
 letter-spacing: 1em;}
 
 a {text-decoration: underline;}
 a:link {color: #000000; font-weight: bold;}
-a:visited {color: #FA8072;}
-a:focus {color: #D8BFD8; background-color: #fff;}
-a:hover {color: #D8BFD8; background-color: #fff;}
-a:active {color: #483D8B; background-color: #FFA07A;}
+a:visited {color: #3c1414;}
+a:focus {color: #52593b; background-color: #fff;}
+a:hover {color: #FFFFFF; background-color: #545a2c;}
+a:active {color: #bdb76b; background-color: #FFA07A;}

@@ -69,7 +69,8 @@ font-weight: bolder;
 text-align: center;
 letter-spacing: 1em;}
 
-a {text-decoration: underline;}
+a.img-link {text-decoration: none;}
+
 a:link {color: #000000; font-weight: bold;}
 a:visited {color: #3c1414;}
 a:focus {color: #52593b; background-color: #fff;}

@@ -1,14 +1,14 @@
-body {background-color: #8a9a5b;
+body {background-color: #000000;
   margin: 0 10%;
   font-family: serif;
   text-align: left;}
 
 header {font-family: "Truculenta", arial, sans-serif;
-  color: #000000;
+  color: #FFFFFF;
   background-color: #d1e189;
     text-align: center;
     margin-top: 0;
-    padding: 40px;
+    padding: 20px;
     text-align: center;}
 
 h1 {text-align: center;

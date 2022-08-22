@@ -5,17 +5,16 @@ body {background-color: #000000;
 
 header {font-family: "Truculenta", arial, sans-serif;
   color: #FFFFFF;
-  background-color: #d1e189;
     text-align: center;
     margin-top: 0;
-    padding: 20px;
+    padding: 10px;
     text-align: center;}
 
 h1 {text-align: center;
   font-family: "Truculenta", arial, sans-serif;
   font-weight: normal;
   font-size: 8em;
-  color: #000000;
+  color: #FFFFFF;
   text-transform: uppercase;
   margin-top: 1px;
   margin-bottom: 1px;
@@ -24,26 +23,25 @@ h1 {text-align: center;
 h2{text-align: left;
   font-family: "Gruppo", serif;
 font-weight: bold;
-  color: #000000;
+  color: #FFFFFF;
   font-size: 1.5em; text-transform: uppercase;}
 
 h3 {font-family: "Truculenta", arial, sans-serif;
-color: #FFEFD5;
+color: #ffe4e1;
 font-weight: bold;
-font-size: 1.5em;
+font-size: 2em;
 text-align: center;
-background-color: #000000;
-padding: 1em;
+padding: 1em;1
 margin-right: 100px;
 margin-left: 100px;}
 
 p {font-family: "Open Sans Condensed", arial, sans-serif;
-font-size: 1.25em;}
+color: #FFFFFF; font-size: 1.25em;}
 
 ul {text-align: left;
 	list-style-type: circle;
   font-family: "Open Sans Condensed", arial, sans-serif;
-font-size: 1.25em;}
+color: #FFFFFF; font-size: 1.25em;}
 
 .center {
     display: block;
@@ -63,16 +61,16 @@ text-transform: lowercase;
 margin-top: 0;
 margin-left: 0;
 margin-right: 0;
-color: #8a9a5b;
+color: #FFFFFF;
 font-size: 2em;
 font-weight: bolder;
 text-align: center;
-letter-spacing: 1em;}
+letter-spacing: .5em;}
 
 a.img-link {text-decoration: none;}
 
-a:link {color: #000000; font-weight: bold;}
-a:visited {color: #3c1414;}
+a:link {color: #aa98a9; font-weight: bold;}
+a:visited {color: #ffc0cb;}
 a:focus {color: #52593b; background-color: #fff;}
-a:hover {color: #FFFFFF; background-color: #545a2c;}
+a:hover {color: #FFFFFF; background-color: #c0c0c0;}
 a:active {color: #bdb76b; background-color: #FFA07A;}
